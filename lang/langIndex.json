@@ -1,0 +1,15 @@
+{
+    "czech": "https://raw.githubusercontent.com/RoyalEngineer/BTTDM/master/lang/cs.json",
+    "german": "https://raw.githubusercontent.com/RoyalEngineer/BTTDM/master/lang/de.json",
+    "english": "https://raw.githubusercontent.com/RoyalEngineer/BTTDM/master/lang/en.json",
+    "spanish": "https://raw.githubusercontent.com/RoyalEngineer/BTTDM/master/lang/es-ES.json",
+    "french": "https://raw.githubusercontent.com/RoyalEngineer/BTTDM/master/lang/fr.json",
+    "latvian": "https://raw.githubusercontent.com/RoyalEngineer/BTTDM/master/lang/lv-LV.json",
+    "malay": "https://raw.githubusercontent.com/RoyalEngineer/BTTDM/master/lang/ms.json",
+    "dutch": "https://raw.githubusercontent.com/RoyalEngineer/BTTDM/master/lang/nl.json",
+    "polish": "https://raw.githubusercontent.com/RoyalEngineer/BTTDM/master/lang/pl.json",
+    "portuguese": "https://raw.githubusercontent.com/RoyalEngineer/BTTDM/master/lang/pt-BR.json",
+    "serbian": "https://raw.githubusercontent.com/RoyalEngineer/BTTDM/master/lang/sr.json",
+    "turkish": "https://raw.githubusercontent.com/RoyalEngineer/BTTDM/master/lang/tr.json",
+    "chinese": "https://raw.githubusercontent.com/RoyalEngineer/BTTDM/master/lang/zh-TW.json"
+}
